@@ -42,13 +42,6 @@
 # value = 10
 # value += 1
 
-#! Strings
-
-# word1 = 'esto es'
-# word2 = ' una palabra'
-
-# print( word1 + word2)
-
 #! Comparison - Comparadores 
 
 # print ( 43 == 42 )
