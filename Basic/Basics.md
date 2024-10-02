@@ -10,18 +10,18 @@ Sangria - Indentation
 
 ### Operadores - Operators
 
-- **=** >  Asign - Asignacion.
-- **+, -, \*, /** > Basic Math - Matematicos.
-- **//, round(), \**,  %,** > Specs Math - Matematicos.
-- **+=, -=, *=, /=** > Compound assignment - asignadores compuestos.
-- **+** > Concatenating Strings - Concatenar Strings.
-- **==, !=, <, >, >=, <=** > Comparison - Comparadores.
-- **True, False, not, and, or** > Boolean - Booleanos.
+> - **=** :small_red_triangle_down: Asign - Asignacion.
+> - **+, -, \*, /** :small_red_triangle_down: Basic Math - Matematicos.
+> - **//, round(), \**,  %,** :small_red_triangle_down: Specs Math - Matematicos.
+> - **+=, -=, *=, /=** :small_red_triangle_down: Compound assignment - asignadores compuestos.
+> - **+** > Concatenating Strings - Concatenar Strings.
+> - **==, !=, <, >, >=, <=** :small_red_triangle_down: Comparison - Comparadores.
+> - **True, False, not, and, or** :small_red_triangle_down: Boolean - Booleanos.
 
 ### Statements - Declaraciones
 
-- **if, if-else,** > Conditionals - Condicionales.
-- **ternary statement if** > Conditionals - Condicionales.
+> - **if, if-else,** :small_red_triangle_down: Conditionals - Condicionales.
+> - **ternary statement if** :small_red_triangle_down: Conditionals - Condicionales.
 
 
 
